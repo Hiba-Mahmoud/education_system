@@ -1,0 +1,11 @@
+{
+    "name": "EducationYear",
+    "alias": "educationyear",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EducationYear\\Providers\\EducationYearServiceProvider"
+    ],
+    "files": []
+}

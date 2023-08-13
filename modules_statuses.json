@@ -1,0 +1,8 @@
+{
+    "Main": true,
+    "Student": true,
+    "User": true,
+    "Subject": true,
+    "EducationYear": true,
+    "Exam": true
+}
